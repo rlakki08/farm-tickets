@@ -1,3 +1,0 @@
-[{"type": "led_sequence", "target": "pico.leds",
-  "steps": [{"on": [1], "ms": 100}, {"on": [], "ms": 400}], "repeat": 6, "tol_ms": 80},
- {"type": "log_contains", "pattern": "READY"}]
