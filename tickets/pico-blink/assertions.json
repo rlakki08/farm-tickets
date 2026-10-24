@@ -1,0 +1,2 @@
+[{"type": "led_blink", "target": "pico.led", "hz": 2.0, "duty": 0.5, "tol_pct": 10},
+ {"type": "log_contains", "pattern": "READY"}]
