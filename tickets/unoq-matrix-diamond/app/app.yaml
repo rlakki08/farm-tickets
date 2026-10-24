@@ -1,0 +1,5 @@
+name: Matrix Diamond
+description: "Show a static diamond on the 8x13 LED matrix"
+icon: 💎
+ports: []
+bricks: []
