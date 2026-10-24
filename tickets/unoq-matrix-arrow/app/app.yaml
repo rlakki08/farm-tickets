@@ -1,0 +1,5 @@
+name: Matrix Arrow
+description: Shows a static up arrow on the 8x13 LED matrix
+icon: "⬆️"
+ports: []
+bricks: []
