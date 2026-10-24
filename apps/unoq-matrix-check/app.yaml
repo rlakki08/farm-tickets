@@ -1,0 +1,3 @@
+name: Matrix Checkmark
+description: "Shows a static checkmark on the 8x13 LED matrix"
+icon: ✅
