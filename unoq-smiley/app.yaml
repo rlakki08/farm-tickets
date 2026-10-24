@@ -1,0 +1,5 @@
+name: Smiley
+description: Show a static smiley on the 8x13 LED matrix
+ports: []
+bricks: []
+icon: 🙂
